@@ -1,0 +1,376 @@
+[DEBUG] - [31-05-2025 00:04:16] [main] [org.testng.TestNG] - suiteXmlPath: "F:\Projects\GoRestAPIAutomationProject\Test-Runner\testNG.xml"
+[DEBUG] - [31-05-2025 00:04:17] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:17] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:17] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:17] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[INFO] - [31-05-2025 00:04:18] [main] [listeners.TestNGListeners] - Test execution started
+[INFO] - [31-05-2025 00:04:18] [main] [utils.FileUtils] - Directory already exists: Test-Outputs\Logs
+[INFO] - [31-05-2025 00:04:18] [main] [utils.FileUtils] - Directory already exists: Test-Outputs\allure-results
+[INFO] - [31-05-2025 00:04:18] [main] [utils.FileUtils] - File copied from src\test\resources\Properties\environment.properties to Test-Outputs\allure-results\environment.properties
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][2]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][2]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][2]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][2]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][1]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][2]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][1]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][2]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][1]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][1]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][2]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][2]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][1]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][2]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][1]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][2]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['title']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['posts'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:18] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][1]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][2]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][1]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][1]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][2]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][2]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][1]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][2]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['email']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][0]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][1]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['comments'][2]['body']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['name']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['gender']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['users'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][1]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][2]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][1]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][1]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][2]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][2]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][1]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][2]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['token']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['title']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['due_on']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][0]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][1]['status']
+[DEBUG] - [31-05-2025 00:04:19] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['todos'][2]['status']
+[INFO] - [31-05-2025 00:04:26] [main] [listeners.TestNGListeners] - Test case createNewUserTC passed
+[INFO] - [31-05-2025 00:04:27] [main] [listeners.TestNGListeners] - Test case createNewUserWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:04:27] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutTokenTC passed
+[INFO] - [31-05-2025 00:04:28] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutBodyTC passed
+[INFO] - [31-05-2025 00:04:29] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutEmailTC passed
+[INFO] - [31-05-2025 00:04:30] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutGenderTC passed
+[INFO] - [31-05-2025 00:04:30] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutNameTC passed
+[INFO] - [31-05-2025 00:04:31] [main] [listeners.TestNGListeners] - Test case createNewUserWithoutStatusTC passed
+[INFO] - [31-05-2025 00:04:31] [main] [listeners.TestNGListeners] - Test case createNewUserWithExistedEmailTC passed
+[INFO] - [31-05-2025 00:04:32] [main] [listeners.TestNGListeners] - Test case createNewUserWithInvalidEmailTC passed
+[INFO] - [31-05-2025 00:04:33] [main] [listeners.TestNGListeners] - Test case createNewUserWithInvalidGenderTC passed
+[INFO] - [31-05-2025 00:04:33] [main] [listeners.TestNGListeners] - Test case createNewUserWithInvalidStatusTC passed
+[INFO] - [31-05-2025 00:04:34] [main] [listeners.TestNGListeners] - Test case retrieveUserTC passed
+[INFO] - [31-05-2025 00:04:35] [main] [listeners.TestNGListeners] - Test case retrieveUserWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:04:35] [main] [listeners.TestNGListeners] - Test case retrieveUserWithoutTokenTC passed
+[INFO] - [31-05-2025 00:04:36] [main] [listeners.TestNGListeners] - Test case retrieveUserWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:04:37] [main] [listeners.TestNGListeners] - Test case retrieveAllUsersTC passed
+[INFO] - [31-05-2025 00:04:37] [main] [listeners.TestNGListeners] - Test case retrieveAllUsersWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:04:38] [main] [listeners.TestNGListeners] - Test case updateUserWithValidDataTC passed
+[INFO] - [31-05-2025 00:04:38] [main] [listeners.TestNGListeners] - Test case updateUserWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:04:39] [main] [listeners.TestNGListeners] - Test case updateUserWithoutTokenTC passed
+[INFO] - [31-05-2025 00:04:40] [main] [listeners.TestNGListeners] - Test case updateUserWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:04:41] [main] [listeners.TestNGListeners] - Test case updateUserWithoutIdTC passed
+[INFO] - [31-05-2025 00:04:41] [main] [listeners.TestNGListeners] - Test case updateUserWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:04:42] [main] [listeners.TestNGListeners] - Test case updateUserWithEmptyEmailTC passed
+[INFO] - [31-05-2025 00:04:44] [main] [listeners.TestNGListeners] - Test case updateUserWithEmptyGenderTC passed
+[INFO] - [31-05-2025 00:04:45] [main] [listeners.TestNGListeners] - Test case updateUserWithEmptyNameTC passed
+[INFO] - [31-05-2025 00:04:46] [main] [listeners.TestNGListeners] - Test case updateUserWithEmptyStatusTC passed
+[INFO] - [31-05-2025 00:04:46] [main] [listeners.TestNGListeners] - Test case updateUserWithExistedEmailTC passed
+[INFO] - [31-05-2025 00:04:47] [main] [listeners.TestNGListeners] - Test case updateUserWithInvalidEmailTC passed
+[INFO] - [31-05-2025 00:04:47] [main] [listeners.TestNGListeners] - Test case updateUserWithInvalidStatusTC passed
+[INFO] - [31-05-2025 00:04:48] [main] [listeners.TestNGListeners] - Test case retrieveUserAfterUpdateTC passed
+[INFO] - [31-05-2025 00:04:49] [main] [listeners.TestNGListeners] - Test case partialUpdateUser passed
+[INFO] - [31-05-2025 00:04:49] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithInvalidToken passed
+[INFO] - [31-05-2025 00:04:50] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithoutToken passed
+[INFO] - [31-05-2025 00:04:51] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithNonExistingId passed
+[INFO] - [31-05-2025 00:04:51] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithoutId passed
+[INFO] - [31-05-2025 00:04:52] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithEmptyEmail passed
+[INFO] - [31-05-2025 00:04:53] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithEmptyGender passed
+[INFO] - [31-05-2025 00:04:53] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithEmptyName passed
+[INFO] - [31-05-2025 00:04:54] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithEmptyStatus passed
+[INFO] - [31-05-2025 00:04:54] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithExistedEmail passed
+[INFO] - [31-05-2025 00:04:55] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithInvalidEmail passed
+[INFO] - [31-05-2025 00:04:56] [main] [listeners.TestNGListeners] - Test case partialUpdateUserWithInvalidStatus passed
+[INFO] - [31-05-2025 00:04:56] [main] [listeners.TestNGListeners] - Test case retrieveUserAfterPartialUpdateTC passed
+[INFO] - [31-05-2025 00:04:57] [main] [listeners.TestNGListeners] - Test case deleteUserTC passed
+[INFO] - [31-05-2025 00:04:58] [main] [listeners.TestNGListeners] - Test case deleteUserWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:04:58] [main] [listeners.TestNGListeners] - Test case deleteUserWithoutTokenTC passed
+[INFO] - [31-05-2025 00:04:59] [main] [listeners.TestNGListeners] - Test case deleteUserWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:00] [main] [listeners.TestNGListeners] - Test case deleteUserWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:00] [main] [listeners.TestNGListeners] - Test case retrieveUserAfterDeleteTC passed
+[INFO] - [31-05-2025 00:05:01] [main] [listeners.TestNGListeners] - Test case createNewUserTC passed
+[INFO] - [31-05-2025 00:05:02] [main] [listeners.TestNGListeners] - Test case createPostWithValidDataTC passed
+[INFO] - [31-05-2025 00:05:02] [main] [listeners.TestNGListeners] - Test case createPostWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:03] [main] [listeners.TestNGListeners] - Test case createPostWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:04] [main] [listeners.TestNGListeners] - Test case createPostWithoutBodyTC passed
+[INFO] - [31-05-2025 00:05:04] [main] [listeners.TestNGListeners] - Test case createPostWithoutPostBodyTC passed
+[INFO] - [31-05-2025 00:05:05] [main] [listeners.TestNGListeners] - Test case createPostWithoutTitleTC passed
+[INFO] - [31-05-2025 00:05:05] [main] [listeners.TestNGListeners] - Test case createPostWithoutUserIdTC passed
+[INFO] - [31-05-2025 00:05:06] [main] [listeners.TestNGListeners] - Test case createPostWithNonExistingUserIdTC passed
+[INFO] - [31-05-2025 00:05:07] [main] [listeners.TestNGListeners] - Test case retrievePostTC passed
+[INFO] - [31-05-2025 00:05:08] [main] [listeners.TestNGListeners] - Test case retrievePostWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:08] [main] [listeners.TestNGListeners] - Test case retrievePostWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:09] [main] [listeners.TestNGListeners] - Test case retrievePostWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:10] [main] [listeners.TestNGListeners] - Test case retrieveAllPostsTC passed
+[INFO] - [31-05-2025 00:05:10] [main] [listeners.TestNGListeners] - Test case retrieveAllPostsWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:11] [main] [listeners.TestNGListeners] - Test case retrieveUserPostsTC passed
+[INFO] - [31-05-2025 00:05:11] [main] [listeners.TestNGListeners] - Test case retrieveUserPostsWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:12] [main] [listeners.TestNGListeners] - Test case retrieveUserPostsWithoutUserIdTC passed
+[INFO] - [31-05-2025 00:05:13] [main] [listeners.TestNGListeners] - Test case updatePostTC passed
+[INFO] - [31-05-2025 00:05:13] [main] [listeners.TestNGListeners] - Test case updatePostWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:14] [main] [listeners.TestNGListeners] - Test case updatePostWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:14] [main] [listeners.TestNGListeners] - Test case updatePostWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:15] [main] [listeners.TestNGListeners] - Test case updatePostWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:16] [main] [listeners.TestNGListeners] - Test case updatePostWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:05:16] [main] [listeners.TestNGListeners] - Test case updatePostWithEmptyPostBodyTC passed
+[INFO] - [31-05-2025 00:05:17] [main] [listeners.TestNGListeners] - Test case updatePostWithEmptyTitleTC passed
+[INFO] - [31-05-2025 00:05:17] [main] [listeners.TestNGListeners] - Test case retrievePostAfterUpdateTC passed
+[INFO] - [31-05-2025 00:05:18] [main] [listeners.TestNGListeners] - Test case partialUpdatePostTC passed
+[INFO] - [31-05-2025 00:05:19] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:19] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:20] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:21] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:21] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:05:22] [main] [listeners.TestNGListeners] - Test case partialUpdatePostWithEmptyTitleTC passed
+[INFO] - [31-05-2025 00:05:23] [main] [listeners.TestNGListeners] - Test case retrievePostAfterPartialUpdateTC passed
+[INFO] - [31-05-2025 00:05:23] [main] [listeners.TestNGListeners] - Test case deletePostTC passed
+[INFO] - [31-05-2025 00:05:24] [main] [listeners.TestNGListeners] - Test case deletePostWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:24] [main] [listeners.TestNGListeners] - Test case deletePostWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:25] [main] [listeners.TestNGListeners] - Test case deletePostWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:26] [main] [listeners.TestNGListeners] - Test case deletePostWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:26] [main] [listeners.TestNGListeners] - Test case retrievePostAfterDeleteTC passed
+[INFO] - [31-05-2025 00:05:27] [main] [listeners.TestNGListeners] - Test case createNewUserTC passed
+[INFO] - [31-05-2025 00:05:28] [main] [listeners.TestNGListeners] - Test case createPostWithValidDataTC passed
+[INFO] - [31-05-2025 00:05:28] [main] [listeners.TestNGListeners] - Test case createCommentWithValidDataTC passed
+[INFO] - [31-05-2025 00:05:29] [main] [listeners.TestNGListeners] - Test case createCommentWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:30] [main] [listeners.TestNGListeners] - Test case createCommentWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:31] [main] [listeners.TestNGListeners] - Test case createCommentWithNonExistingPostIdTC passed
+[INFO] - [31-05-2025 00:05:31] [main] [listeners.TestNGListeners] - Test case createCommentWithoutPostIdTC passed
+[INFO] - [31-05-2025 00:05:32] [main] [listeners.TestNGListeners] - Test case createCommentWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:05:33] [main] [listeners.TestNGListeners] - Test case createCommentWithEmptyEmailTC passed
+[INFO] - [31-05-2025 00:05:33] [main] [listeners.TestNGListeners] - Test case createCommentWithEmptyNameTC passed
+[INFO] - [31-05-2025 00:05:34] [main] [listeners.TestNGListeners] - Test case createCommentWithoutBodyTC passed
+[INFO] - [31-05-2025 00:05:35] [main] [listeners.TestNGListeners] - Test case createCommentWithInvalidEmailFormatTC passed
+[INFO] - [31-05-2025 00:05:35] [main] [listeners.TestNGListeners] - Test case retrieveCommentTC passed
+[INFO] - [31-05-2025 00:05:36] [main] [listeners.TestNGListeners] - Test case retrieveCommentWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:36] [main] [listeners.TestNGListeners] - Test case retrieveCommentWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:37] [main] [listeners.TestNGListeners] - Test case retrieveCommentWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:38] [main] [listeners.TestNGListeners] - Test case retrieveAllCommentsTC passed
+[INFO] - [31-05-2025 00:05:38] [main] [listeners.TestNGListeners] - Test case retrieveAllCommentsWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:39] [main] [listeners.TestNGListeners] - Test case retrievePostCommentsTC passed
+[INFO] - [31-05-2025 00:05:39] [main] [listeners.TestNGListeners] - Test case retrievePostCommentsWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:40] [main] [listeners.TestNGListeners] - Test case retrievePostCommentsWithoutPostIdTC passed
+[INFO] - [31-05-2025 00:05:41] [main] [listeners.TestNGListeners] - Test case updateCommentTC passed
+[INFO] - [31-05-2025 00:05:42] [main] [listeners.TestNGListeners] - Test case updateCommentWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:42] [main] [listeners.TestNGListeners] - Test case updateCommentWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:43] [main] [listeners.TestNGListeners] - Test case updateCommentWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:44] [main] [listeners.TestNGListeners] - Test case updateCommentWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:44] [main] [listeners.TestNGListeners] - Test case updateCommentWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:05:45] [main] [listeners.TestNGListeners] - Test case updateCommentWithEmptyCommentBodyTC passed
+[INFO] - [31-05-2025 00:05:45] [main] [listeners.TestNGListeners] - Test case updateCommentWithEmptyEmailTC passed
+[INFO] - [31-05-2025 00:05:46] [main] [listeners.TestNGListeners] - Test case updateCommentWithEmptyNameTC passed
+[INFO] - [31-05-2025 00:05:47] [main] [listeners.TestNGListeners] - Test case updateCommentWithInvalidEmailTC passed
+[INFO] - [31-05-2025 00:05:47] [main] [listeners.TestNGListeners] - Test case retrieveCommentAfterUpdateTC passed
+[INFO] - [31-05-2025 00:05:48] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentTC passed
+[INFO] - [31-05-2025 00:05:49] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:49] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:50] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:50] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:51] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithEmptyBodyTC passed
+[INFO] - [31-05-2025 00:05:52] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithEmptyEmailTC passed
+[INFO] - [31-05-2025 00:05:53] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithEmptyNameTC passed
+[INFO] - [31-05-2025 00:05:53] [main] [listeners.TestNGListeners] - Test case partialUpdateCommentWithInvalidEmailTC passed
+[INFO] - [31-05-2025 00:05:54] [main] [listeners.TestNGListeners] - Test case retrieveCommentAfterPartialUpdateTC passed
+[INFO] - [31-05-2025 00:05:54] [main] [listeners.TestNGListeners] - Test case deleteCommentTC passed
+[INFO] - [31-05-2025 00:05:55] [main] [listeners.TestNGListeners] - Test case deleteCommentWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:05:56] [main] [listeners.TestNGListeners] - Test case deleteCommentWithoutTokenTC passed
+[INFO] - [31-05-2025 00:05:56] [main] [listeners.TestNGListeners] - Test case deleteCommentWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:05:57] [main] [listeners.TestNGListeners] - Test case deleteCommentWithoutIdTC passed
+[INFO] - [31-05-2025 00:05:57] [main] [listeners.TestNGListeners] - Test case retrieveCommentAfterDeletionTC passed
+[INFO] - [31-05-2025 00:05:58] [main] [listeners.TestNGListeners] - Test case createNewUserTC passed
+[INFO] - [31-05-2025 00:05:59] [main] [listeners.TestNGListeners] - Test case createTodoTC passed
+[INFO] - [31-05-2025 00:05:59] [main] [listeners.TestNGListeners] - Test case createTodoWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:00] [main] [listeners.TestNGListeners] - Test case createTodoWithoutTokenTC passed
+[INFO] - [31-05-2025 00:06:00] [main] [listeners.TestNGListeners] - Test case createTodoWithNonExistingUserIdTC passed
+[INFO] - [31-05-2025 00:06:01] [main] [listeners.TestNGListeners] - Test case createTodoWithoutPostIdTC passed
+[INFO] - [31-05-2025 00:06:01] [main] [listeners.TestNGListeners] - Test case createTodoWithEmptyStatusTC passed
+[INFO] - [31-05-2025 00:06:02] [main] [listeners.TestNGListeners] - Test case createTodoWithEmptyTitleTC passed
+[INFO] - [31-05-2025 00:06:03] [main] [listeners.TestNGListeners] - Test case createTodoWithoutBodyTC passed
+[INFO] - [31-05-2025 00:06:03] [main] [listeners.TestNGListeners] - Test case createTodoWithInvalidStatusTC passed
+[INFO] - [31-05-2025 00:06:04] [main] [listeners.TestNGListeners] - Test case retrieveTodoTC passed
+[INFO] - [31-05-2025 00:06:04] [main] [listeners.TestNGListeners] - Test case retrieveTodoWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:05] [main] [listeners.TestNGListeners] - Test case retrieveTodoWithoutTokenTC passed
+[INFO] - [31-05-2025 00:06:06] [main] [listeners.TestNGListeners] - Test case retrieveTodoWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:06:07] [main] [listeners.TestNGListeners] - Test case retrieveAllTodosTC passed
+[INFO] - [31-05-2025 00:06:07] [main] [listeners.TestNGListeners] - Test case retrieveAllTodosWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:08] [main] [listeners.TestNGListeners] - Test case retrieveUserTodosTC passed
+[INFO] - [31-05-2025 00:06:08] [main] [listeners.TestNGListeners] - Test case retrieveUserTodosWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:09] [main] [listeners.TestNGListeners] - Test case retrieveUserTodosWithoutUserIdTC passed
+[INFO] - [31-05-2025 00:06:10] [main] [listeners.TestNGListeners] - Test case updateTodo passed
+[INFO] - [31-05-2025 00:06:10] [main] [listeners.TestNGListeners] - Test case updateTodoWithInvalidToken passed
+[INFO] - [31-05-2025 00:06:11] [main] [listeners.TestNGListeners] - Test case updateTodoWithoutToken passed
+[INFO] - [31-05-2025 00:06:11] [main] [listeners.TestNGListeners] - Test case updateTodoWithNonExistingId passed
+[INFO] - [31-05-2025 00:06:12] [main] [listeners.TestNGListeners] - Test case updateTodoWithoutId passed
+[INFO] - [31-05-2025 00:06:13] [main] [listeners.TestNGListeners] - Test case updateTodoWithEmptyBody passed
+[INFO] - [31-05-2025 00:06:14] [main] [listeners.TestNGListeners] - Test case updateTodoWithEmptyStatus passed
+[INFO] - [31-05-2025 00:06:14] [main] [listeners.TestNGListeners] - Test case updateTodoWithEmptyTitle passed
+[INFO] - [31-05-2025 00:06:15] [main] [listeners.TestNGListeners] - Test case updateTodoWithInvalidStatus passed
+[INFO] - [31-05-2025 00:06:15] [main] [listeners.TestNGListeners] - Test case retrieveTodoAfterUpdateTC passed
+[INFO] - [31-05-2025 00:06:16] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoTC passed
+[INFO] - [31-05-2025 00:06:17] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:17] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithoutTokenTC passed
+[INFO] - [31-05-2025 00:06:18] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:06:19] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithoutIdTC passed
+[INFO] - [31-05-2025 00:06:19] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithEmptyStatusTC passed
+[INFO] - [31-05-2025 00:06:20] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithEmptyTitleTC passed
+[INFO] - [31-05-2025 00:06:20] [main] [listeners.TestNGListeners] - Test case partialUpdateTodoWithInvalidStatusTC passed
+[INFO] - [31-05-2025 00:06:21] [main] [listeners.TestNGListeners] - Test case retrieveTodoAfterPartialUpdateTC passed
+[INFO] - [31-05-2025 00:06:22] [main] [listeners.TestNGListeners] - Test case deleteTodoTC passed
+[INFO] - [31-05-2025 00:06:22] [main] [listeners.TestNGListeners] - Test case deleteTodoWithInvalidTokenTC passed
+[INFO] - [31-05-2025 00:06:23] [main] [listeners.TestNGListeners] - Test case deleteTodoWithoutTokenTC passed
+[INFO] - [31-05-2025 00:06:24] [main] [listeners.TestNGListeners] - Test case deleteTodoWithNonExistingIdTC passed
+[INFO] - [31-05-2025 00:06:24] [main] [listeners.TestNGListeners] - Test case deleteTodoWithoutIdTC passed
+[INFO] - [31-05-2025 00:06:25] [main] [listeners.TestNGListeners] - Test case retrieveTodoAfterDeletionTC passed
+[INFO] - [31-05-2025 00:06:26] [main] [listeners.TestNGListeners] - Test execution finished

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <suite-files>
+        <suite-file path="usersSuite.xml"/>
+        <suite-file path="postsSuite.xml"/>
+        <suite-file path="commentsSuite.xml"/>
+        <suite-file path="todosSuite.xml"/>
+    </suite-files>
+</suite>

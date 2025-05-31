@@ -1,0 +1,56 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Todos Suite">
+    <test name="Create Todo Tests">
+        <classes>
+            <class name="tests.users.TC01_CreateUser">
+                <methods>
+                    <include name="createNewUserTC"/>
+                </methods>
+            </class>
+            <class name="tests.todos.TC01_CreateTodo"/>
+        </classes>
+    </test>
+    <test name="Retrieve Todo Tests">
+        <classes>
+            <class name="tests.todos.TC02_RetrieveTodo">
+                <methods>
+                    <exclude name="retrieveTodoAfterUpdateTC"/>
+                    <exclude name="retrieveTodoAfterPartialUpdateTC"/>
+                    <exclude name="retrieveTodoAfterDeletionTC"/>
+                </methods>
+            </class>
+            <class name="tests.todos.TC03_RetrieveAllTodos"/>
+            <class name="tests.todos.TC04_RetrieveUserTodos"/>
+        </classes>
+    </test>
+    <test name="Update Todo Tests">
+        <classes>
+            <class name="tests.todos.TC05_UpdateTodo"/>
+            <class name="tests.todos.TC02_RetrieveTodo">
+                <methods>
+                    <include name="retrieveTodoAfterUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Partial Update Todo Tests">
+        <classes>
+            <class name="tests.todos.TC06_PartialUpdateTodo"/>
+            <class name="tests.todos.TC02_RetrieveTodo">
+                <methods>
+                    <include name="retrieveTodoAfterPartialUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Delete Todo Tests">
+        <classes>
+            <class name="tests.todos.TC07_DeleteTodo"/>
+            <class name="tests.todos.TC02_RetrieveTodo">
+                <methods>
+                    <include name="retrieveTodoAfterDeletionTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

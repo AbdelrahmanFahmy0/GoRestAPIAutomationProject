@@ -1,0 +1,56 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Posts Suite">
+    <test name="Create Post Tests">
+        <classes>
+            <class name="tests.users.TC01_CreateUser">
+                <methods>
+                    <include name="createNewUserTC"/>
+                </methods>
+            </class>
+            <class name="tests.posts.TC01_CreatePost"/>
+        </classes>
+    </test>
+    <test name="Retrieve Post Tests">
+        <classes>
+            <class name="tests.posts.TC02_RetrievePost">
+                <methods>
+                    <exclude name="retrievePostAfterUpdateTC"/>
+                    <exclude name="retrievePostAfterPartialUpdateTC"/>
+                    <exclude name="retrievePostAfterDeleteTC"/>
+                </methods>
+            </class>
+            <class name="tests.posts.TC03_RetrieveAllPosts"/>
+            <class name="tests.posts.TC04_RetrieveUserPosts"/>
+        </classes>
+    </test>
+    <test name="Update Post Tests">
+        <classes>
+            <class name="tests.posts.TC05_UpdatePost"/>
+            <class name="tests.posts.TC02_RetrievePost">
+                <methods>
+                    <include name="retrievePostAfterUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Partial Update Post Tests">
+        <classes>
+            <class name="tests.posts.TC06_PartialUpdatePost"/>
+            <class name="tests.posts.TC02_RetrievePost">
+                <methods>
+                    <include name="retrievePostAfterPartialUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Delete Post Tests">
+        <classes>
+            <class name="tests.posts.TC07_DeletePost"/>
+            <class name="tests.posts.TC02_RetrievePost">
+                <methods>
+                    <include name="retrievePostAfterDeleteTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

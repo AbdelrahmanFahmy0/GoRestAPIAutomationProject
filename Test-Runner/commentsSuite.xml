@@ -1,0 +1,61 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Comments Suite">
+    <test name="Create Comment Tests">
+        <classes>
+            <class name="tests.users.TC01_CreateUser">
+                <methods>
+                    <include name="createNewUserTC"/>
+                </methods>
+            </class>
+            <class name="tests.posts.TC01_CreatePost">
+                <methods>
+                    <include name="createPostWithValidDataTC"/>
+                </methods>
+            </class>
+            <class name="tests.comments.TC01_CreateComment"/>
+        </classes>
+    </test>
+    <test name="Retrieve Comment Tests">
+        <classes>
+            <class name="tests.comments.TC02_RetrieveComment">
+                <methods>
+                    <exclude name="retrieveCommentAfterUpdateTC"/>
+                    <exclude name="retrieveCommentAfterPartialUpdateTC"/>
+                    <exclude name="retrieveCommentAfterDeletionTC"/>
+                </methods>
+            </class>
+            <class name="tests.comments.TC03_RetrieveAllComments"/>
+            <class name="tests.comments.TC04_RetrievePostComments"/>
+        </classes>
+    </test>
+    <test name="Update Comment Tests">
+        <classes>
+            <class name="tests.comments.TC05_UpdateComment"/>
+            <class name="tests.comments.TC02_RetrieveComment">
+                <methods>
+                    <include name="retrieveCommentAfterUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Partial Update Comment Tests">
+        <classes>
+            <class name="tests.comments.TC06_PartialUpdateComment"/>
+            <class name="tests.comments.TC02_RetrieveComment">
+                <methods>
+                    <include name="retrieveCommentAfterPartialUpdateTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Delete Comment Tests">
+        <classes>
+            <class name="tests.comments.TC07_DeleteComment"/>
+            <class name="tests.comments.TC02_RetrieveComment">
+                <methods>
+                    <include name="retrieveCommentAfterDeletionTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ahmed Youssef",
+      "email": "ahmed.youssef@example.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "name": "Abdelrahman Fahmy",
+      "email": "abdelrahman.fahmy@example.com",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "name": "Omar Nabil",
+      "email": "omar.nabil@example.com",
+      "gender": "male",
+      "status": "active"
+    }
+  ]
+}

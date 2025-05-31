@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Getting Started with Automation",
+      "body": "This post introduces the basics of test automation using Java and Rest Assured."
+    },
+    {
+      "title": "Understanding JSON Schema Validation",
+      "body": "Learn how to validate API responses using JSON schemas in your test framework."
+    },
+    {
+      "title": "Tips for Writing Clean Test Code",
+      "body": "Explore best practices for maintaining clean, readable, and reusable test code."
+    }
+  ]
+}
